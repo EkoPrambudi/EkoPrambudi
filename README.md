@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EkoPrambudi
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Excel, Spreadsheet, Phyton, Tableau, Power BI, R Programming
+- 🌱 I’m currently learning SQL, Excel, Spreadsheet, Python, Tableau, Power BI, R Programming
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/muhammad-eko-prambudi-663146133/)
 
 <!---
